@@ -1,0 +1,5 @@
+In this task, I explored different coding and collaboration platforms including HackerRank and Google Workspace. On HackerRank, I created an account and completed a beginner-level challenge, which helped me understand basic programming concepts and improve my problem-solving skills.
+
+For collaboration, I created a Google Form on Digital Literacy Awareness, which included multiple-choice and short answer questions. I also connected the form to a Google Sheet to automatically collect and organize responses. This helped me understand how data can be gathered and analyzed efficiently.
+
+These tools will help me academically by improving my coding abilities, enhancing my understanding of real-world problem solving, and allowing me to create and share interactive content. Overall, this task improved my technical skills and gave me practical experience with important digital tools.
